@@ -7,19 +7,19 @@ Hier gibt es vier Regler:
 3. Statistiken
 4. Marketing
 Die letzten drei der genannten Punkte  sind an-/abwählbar. Alle ausgeschlossen dem Punkt "Marketing" sind angewählt.
-![[Screenshot 2024-01-08 at 14.26.14.png]]
+![Bild](https://github.com/cediackermann/TBZ_M231/blob/main/Bilder/Screenshot%202024-01-08%20at%2014.26.14.png)
 
 Unter dem Reiter "Details" wird für jeden der oben genannten Punkte eine genaue Beschreibung für was diese Cookies genutzt werden und von wem sie stammen.
-![[Screenshot 2024-01-08 at 14.29.55.png]]
+![Bild](https://github.com/cediackermann/TBZ_M231/blob/main/Bilder/Screenshot%202024-01-08%20at%2014.29.55.png)
 
 ## mercedes-benz.ch
 Auf dieser Seite sieht man zuerst nur einen relativ langen Text und unten zwei Knöpfe:
 1. Einstellungen
 2. Allem zustimmen
-![[Screenshot 2024-01-08 at 14.33.12.png]]
+![Bild](https://github.com/cediackermann/TBZ_M231/blob/main/Bilder/Screenshot%202024-01-08%20at%2014.33.12.png)
 
 Unter "Einstellungen" kommt man auf ein ähnliches Menu wie auf kantonalbank.ch. 
-![[Screenshot 2024-01-08 at 14.34.46.png]]
+![Bild](https://github.com/cediackermann/TBZ_M231/blob/main/Bilder/Screenshot%202024-01-08%20at%2014.34.46.png)
 
 # 2.  Warum werden seit einiger Zeit solche Banner angezeigt? Seit wann?  
 Schweizer Webseiten müssen gesetzlich nur einen Infobanner haben, auf welchem steht, welche Cookies für was genutzt werden.
