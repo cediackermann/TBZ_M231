@@ -1,13 +1,17 @@
-1. **Zugangskontrolle**: Sicherstellen, dass nur autorisierte Benutzer oder Programme auf Informationen zugreifen können, um Vertraulichkeit und Integrität zu gewährleisten​.
+# Zugangskontrolle: 
+Dieser Sicherheitsmechanismus stellt sicher, dass nur berechtigte Benutzer oder Programme auf Informationen zugreifen können. Dies gewährleistet die Vertraulichkeit und Integrität von Daten, indem verhindert wird, dass Unbefugte auf sensible Informationen zugreifen oder diese ändern können. Zugangskontrolle umfasst die Verwendung von Passwörtern, biometrischen Identifikationsmethoden und Zugriffsrechten, um sicherzustellen, dass nur diejenigen, die dazu befugt sind, auf bestimmte Ressourcen zugreifen können.
 
-2. **Eingeschränkte Benutzerkonten verwenden**: Durch die Beschränkung der Benutzerrechte wird das Risiko von unbefugten Zugriffen und damit verbundenen Schäden reduziert, was Vertraulichkeit und Integrität unterstützt​.
+# Eingeschränkte Benutzerkonten verwenden: 
+Die Verwendung eingeschränkter Benutzerkonten ist entscheidend, um das Risiko unbefugter Zugriffe zu minimieren. Indem den Benutzern nur die notwendigen Rechte und Berechtigungen zugewiesen werden, wird die Wahrscheinlichkeit verringert, dass schädliche oder bösartige Aktionen ausgeführt werden können. Dies trägt erheblich zur Sicherung der Vertraulichkeit und Integrität von Daten bei, da sensible Informationen vor unbefugtem Zugriff geschützt werden.
 
-3. **Restriktive Konfiguration von Systemen**: Durch das Beschränken der Systemfunktionen auf das Notwendige wird die Angriffsfläche für potenzielle Bedrohungen verringert, was wiederum die Integrität und Verfügbarkeit der Daten schützt​.
+# Restriktive Konfiguration von Systemen: 
+Durch die Beschränkung der Systemfunktionen auf das Wesentliche wird die Angriffsfläche für potenzielle Bedrohungen minimiert. Dies bedeutet, dass weniger Möglichkeiten für Angreifer bestehen, Schwachstellen auszunutzen und das System zu kompromittieren. Diese Maßnahme unterstützt die Integrität und Verfügbarkeit von Daten, da die Wahrscheinlichkeit von Angriffen und Störungen reduziert wird.
 
-3. **Restriktive Konfiguration von Systemen**: Durch das Beschränken der Systemfunktionen auf das Notwendige wird die Angriffsfläche für potenzielle Bedrohungen verringert, was wiederum die Integrität und Verfügbarkeit der Daten schützt​.
+# Erstellung von Sicherungskopien: 
+Regelmäßige Backups sind entscheidend, um die Verfügbarkeit von Daten im Falle eines Systemausfalls, eines Hardwarefehlers oder eines Datenverlusts zu gewährleisten. Durch das Erstellen von Sicherungskopien können verlorene oder beschädigte Daten wiederhergestellt werden, wodurch die Integrität und Verfügbarkeit der Informationen geschützt wird.
 
-4. **Erstellung von Sicherungskopien**: Regelmäßige Backups helfen, die Verfügbarkeit der Daten im Falle eines Systemausfalls oder Datenverlusts zu sichern​.
+# Verschlüsselung sensibler Daten: 
+Die Verschlüsselung sensibler Daten ist ein wichtiger Schutzmechanismus, der die Vertraulichkeit und Integrität von Informationen gewährleistet, insbesondere während der Übertragung über unsichere Netzwerke. Durch die Umwandlung von verständlichen Daten in verschlüsselte Formen wird sichergestellt, dass selbst bei einem Datenleck oder einer unbefugten Abfangaktion die Informationen für Unbefugte unlesbar bleiben.
 
-5. **Verschlüsselung sensibler Daten**: Verschlüsselung schützt die Vertraulichkeit und Integrität von Daten, insbesondere bei der Übertragung über unsichere Netzwerke​.
-
-6. **Sensibilisierung und Schulung der Mitarbeiter**: Informierte und geschulte Mitarbeiter können effektiv zur Wahrung der Datensicherheit und zum Schutz vor Missbrauch beitragen, was alle drei Aspekte des Informationssicherheitsdreiecks stärkt​.
+# Sensibilisierung und Schulung der Mitarbeiter: 
+Informierte und geschulte Mitarbeiter sind eine wertvolle Ressource für die Wahrung der Datensicherheit. Sie können effektiv dazu beitragen, Risiken zu minimieren und vor Missbrauch zu schützen. Dies stärkt alle drei Aspekte des Informationssicherheitsdreiecks - Vertraulichkeit, Integrität und Verfügbarkeit -, da Mitarbeiter dazu beitragen, sicherheitsrelevante Praktiken und Richtlinien in der Organisation umzusetzen und sicherzustellen, dass Informationen angemessen geschützt sind.
