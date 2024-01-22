@@ -37,7 +37,7 @@ Ich habe eine fast uneingeschränkte Synchronisierung, da ich so die Dienste am 
 
 
 ## PC-Sicherheit erhöhen - in fünf Schritten
-- Link { https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten }
+Link { https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten }
 
 #### 01 Persönliche Informationen schützen
 Ich lösche regelmässig meinen Cache und meinen Sucherverlauf, durch eine Browsererweiterung werden automatisch alle Cookies abgelehnt, die nicht nötig sind.
